@@ -1,0 +1,2 @@
+<!--pages/TSL/TSL.wxml-->
+<text>{{msg}}</text>

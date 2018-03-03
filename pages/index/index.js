@@ -50,5 +50,11 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
+  },
+
+  TSL_Enter:function(){
+    wx.navigateTo({
+      url: '../TSL/TSL',
+    })
   }
 })

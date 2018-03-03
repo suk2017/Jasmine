@@ -7,7 +7,10 @@
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
   </view>
+
+<button bindtap='TSL_Enter'>查看时序链</button>
+,
   <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
+sd    <text class="user-motto">{{motto}}</text>
   </view>
 </view>
